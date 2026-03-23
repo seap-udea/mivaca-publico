@@ -1,10 +1,10 @@
-# Mi Vaca (Public Deploy Repo)
+# Mi Vaca (Repositorio público de despliegue)
 
-This repository is intentionally minimal and does not include application source code.
+Este repositorio es intencionalmente mínimo y no incluye el código fuente de la aplicación.
 
-It is used only to deploy Mi Vaca from a prebuilt container image.
+Se usa únicamente para desplegar Mi Vaca desde una imagen de contenedor preconstruida.
 
-## Docker build args
+## Argumentos de build de Docker
 
-- `APP_IMAGE` (default: `ghcr.io/seap-udea/mivaca`)
-- `APP_TAG` (default: `latest`)
+- `APP_IMAGE` (por defecto: `ghcr.io/seap-udea/mivaca`)
+- `APP_TAG` (por defecto: `latest`)
